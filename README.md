@@ -25,7 +25,7 @@ Bike sharing systems are a means of renting bicycles where the process of obtain
 - count - number of total rentals
 
 ### Evaluation
-> Submissions are evaluated one the Root Mean Squared Logarithmic Error (RMSLE). The RMSLE is calculated as
+ Submissions are evaluated one the Root Mean Squared Logarithmic Error (RMSLE). The RMSLE is calculated as
 ![rsmle](img/rmsle.png)
 
 ### Result
